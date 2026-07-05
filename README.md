@@ -1,9 +1,9 @@
 #                                  <h1 align="center"> Recalbox-10-Bios 2026</h1>
 <p align="center">
-Las Bios Correctas y necesarias para Recalbox-10 (todas las versiones), sin archivos innecesarios.
+Las Bios Correctas y necesarias para Recalbox-10.1 (todas las versiones), sin archivos innecesarios.
 </p>
 <p align="center">
-Bios Recalbox-10 (all versions) without unnecessary files.
+Bios Recalbox-10.1 (all versions) without unnecessary files.
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/PIBSAS/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
@@ -28,7 +28,7 @@ Password: `recalboxroot`
 Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/Recalbox-10/main/bios.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/recalbox-10.1/main/bios.sh | bash
 ```
 
 # Tutorial: Retroconsolas
